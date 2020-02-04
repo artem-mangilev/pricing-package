@@ -1,0 +1,9 @@
+@font-face {
+  font-family: fontAwesome;
+  src: url('./fontawesome-webfont.eot'), 
+       url('./fontawesome-webfont.svg'),
+       url('./fontawesome-webfont.ttf'),
+       url('./fontawesome-webfont.woff') format('woff'),
+       url('./fontawesome-webfont.woff2') format('woff2'),
+       url('./FontAwesome.otf');
+}
